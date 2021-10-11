@@ -6,10 +6,19 @@
     "slug": "gofinances",
     "version": "1.0.0",
     "assetBundlePatterns": ["**/*"],
+    "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#5636D3"
+    },
+    "description": "",
+    "githubUrl": "https://github.com/Masterr115/ignite-goFinances",
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#5636D3"
+      }
     }
   }
 }
